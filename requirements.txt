@@ -9,6 +9,7 @@ torch
 torchvision
 torchtext
 torchaudio
+captum
 PyHamcrest
 bs4
 awscli==1.16.35
